@@ -1,4 +1,4 @@
-### CV-Gen - A chrome plugin
+### CV-Gen : A chrome plugin
 This Chrome extension allows users to generate personalized cover letters from LinkedIn job postings using the Gemini AI API. By scraping job descriptions and combining them with the user's resume, the extension creates tailored cover letters to enhance job applications.
 
 ### Features
@@ -15,15 +15,18 @@ This Chrome extension allows users to generate personalized cover letters from L
 1. Clone the repository:
 
 git clone https://github.com/yourusername/cover-letter-generator.git
+
 Open Chrome and navigate to chrome://extensions/.
+
 Enable "Developer mode" by toggling the switch in the top right corner.
 Click on "Load unpacked" and select the cloned repository folder.
 The extension should now appear in your list of installed extensions.
-Usage
+
+### Usage
 Click on the extension icon in the Chrome toolbar.
 Enter your Gemini AI API key in the designated field.
 Paste your resume content into the provided text area.
-Navigate to a LinkedIn job posting and click the "Generate Cover Letter" button.
+Navigate to a LinkedIn job posting and click the "Generate" button.
 The extension will scrape the job description and send it along with your resume to the Gemini AI API.
 A personalized cover letter will be generated and displayed.
 
