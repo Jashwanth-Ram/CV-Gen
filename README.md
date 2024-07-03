@@ -25,12 +25,11 @@ Click on "Load unpacked" and select the cloned repository folder.
 The extension should now appear in your list of installed extensions.
 
 ### Usage
-Click on the extension icon in the Chrome toolbar.
-Enter your Gemini AI API key in the designated field.
-Paste your resume content into the provided text area.
-Navigate to a LinkedIn job posting and click the "Generate" button.
-The extension will scrape the job description and send it along with your resume to the Gemini AI API.
-A personalized cover letter will be generated and displayed.
+1. Click on the extension icon in the Chrome toolbar.
+2. Enter your Gemini AI API key in the designated field and Paste your resume content into the provided text area.
+3. Navigate to a LinkedIn job posting and click the "Generate" button.
+4. The extension will scrape the job description and send it along with your resume to the Gemini AI API.
+5. A personalized cover letter will be generated and displayed.
 
 ### Configuration
 1. Gemini AI API Key: Required to access the AI service for generating cover letters. Obtain your key from the Gemini AI website.
