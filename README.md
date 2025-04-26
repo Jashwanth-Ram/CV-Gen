@@ -28,12 +28,6 @@ git clone https://github.com/Jashwanth-Ram/CV-Gen/
 
 The CV-Gen extension should now appear in your list of installed extensions.
 
-### Usage
-1. Enter your Gemini API key in the designated field and Paste your resume content into the provided text area.
-2. Navigate to a LinkedIn job posting and click the "Generate" button.
-3. The extension will scrape the job description and send it along with your resume to the Gemini AI API.
-4. A personalized cover letter will be generated and displayed.
-
 ### Configuration
 1. Gemini API Key: Required to access the AI service for generating cover letters. Obtain your key from Google AI Studio.
 2. Resume Content: Your resume in  text format. Ensure it is up-to-date and accurately reflects your experience and skills.
