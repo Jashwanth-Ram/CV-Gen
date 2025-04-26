@@ -65,7 +65,7 @@ function Profile({setPage,resume,setResume,openAIKey,setOpenAIKey}) {
             htmlFor="openAIKey"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
           >
-            Your Gemini AI Key
+            Your Gemini API Key
           </label>
           <input
             id="openAIKey"
