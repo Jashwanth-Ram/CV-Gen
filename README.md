@@ -18,18 +18,17 @@ Click this 👉 https://drive.google.com/file/d/14PLyctO_oiXB4NM_ZxptFMYoO0a7fi7
 
 git clone https://github.com/yourusername/cover-letter-generator.git
 
-Open Chrome and navigate to chrome://extensions/.
+Open your browser and navigate to yourbrowsername://extensions/ (Like brave://extensions/).
 
-Enable "Developer mode" by toggling the switch in the top right corner.
+Enable "Developer mode" on your browser.
 Click on "Load unpacked" and select the cloned repository folder.
-The extension should now appear in your list of installed extensions.
+The CV-Gen extension should now appear in your list of installed extensions.
 
 ### Usage
-1. Click on the extension icon in the Chrome toolbar.
-2. Enter your Gemini API key in the designated field and Paste your resume content into the provided text area.
-3. Navigate to a LinkedIn job posting and click the "Generate" button.
-4. The extension will scrape the job description and send it along with your resume to the Gemini AI API.
-5. A personalized cover letter will be generated and displayed.
+1. Enter your Gemini API key in the designated field and Paste your resume content into the provided text area.
+2. Navigate to a LinkedIn job posting and click the "Generate" button.
+3. The extension will scrape the job description and send it along with your resume to the Gemini AI API.
+4. A personalized cover letter will be generated and displayed.
 
 ### Configuration
 1. Gemini API Key: Required to access the AI service for generating cover letters. Obtain your key from Google AI Studio.
