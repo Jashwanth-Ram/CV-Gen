@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "CV GEN",
   "version": "1.0.0",
-  "description": "Generates cover letters using scraped data, powered by GeminiAI API for personalized job applications.",
+  "description": "This extension allows users to generate personalized cover letters from LinkedIn job postings.",
   "permissions": ["activeTab", "storage", "scripting"],
   "icons": {
     "16": "icon.png",
