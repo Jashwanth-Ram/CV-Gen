@@ -14,14 +14,16 @@ Click this 👉 https://drive.google.com/file/d/14PLyctO_oiXB4NM_ZxptFMYoO0a7fi7
 2. User's resume content 
 
 ### Installation
-1. Clone the repository:
 
+-> Clone the repository:
 git clone https://github.com/yourusername/cover-letter-generator.git
 
-Open your browser and navigate to yourbrowsername://extensions/ (Like brave://extensions/).
+-> Open your browser and navigate to yourbrowsername://extensions/ (Like brave://extensions/).
 
-Enable "Developer mode" on your browser.
-Click on "Load unpacked" and select the cloned repository folder.
+-> Enable "Developer mode" on your browser.
+
+-> Click on "Load unpacked" and select the cloned repository folder.
+
 The CV-Gen extension should now appear in your list of installed extensions.
 
 ### Usage
