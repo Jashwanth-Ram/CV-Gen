@@ -10,9 +10,8 @@ Click this 👉 https://drive.google.com/file/d/122cPfBuJX3p6p-91mGjpC7oxgK_a1ef
 3. Customize cover letters based on the user's resume and job description.
 
 ### Prerequisites
-1. Google Chrome browser
-2. Gemini AI API key
-3. User's resume content 
+1. Gemini AI API key
+2. User's resume content 
 
 ### Installation
 1. Clone the repository:
