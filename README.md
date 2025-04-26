@@ -19,7 +19,7 @@ Click this 👉 https://drive.google.com/file/d/14PLyctO_oiXB4NM_ZxptFMYoO0a7fi7
 
 git clone https://github.com/yourusername/cover-letter-generator.git
 
--> Open your browser and navigate to yourbrowsername://extensions/ (Like brave://extensions/).
+-> Open your browser and navigate to yourbrowsername://extensions/ (Like brave://extensions/)
 
 -> Enable "Developer mode" on your browser.
 
