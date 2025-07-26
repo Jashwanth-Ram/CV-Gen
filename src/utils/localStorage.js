@@ -15,6 +15,9 @@ export const saveData = (key, data) => {
             console.error(error);
         }
     } else {
+
+             //when running this app on normal web page not in a extension the chrome storage might not exist then we store data to browser local storage.
+
         // Save data to browser local storage
         return Promise.resolve(localStorage.setItem(key, JSON.stringify(data)));
     }
