@@ -15,7 +15,7 @@ export const saveData = (key, data) => {
             console.error(error);
         }
     } else {
-        // Save data to local storage
+        // Save data to browser local storage
         return Promise.resolve(localStorage.setItem(key, JSON.stringify(data)));
     }
 };
