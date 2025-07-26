@@ -33,7 +33,7 @@ export const loadData = (key) => {
             console.error(error);
         }
     } else {
-        // Load data from local storage
+        // Load data from browser local storage
         return Promise.resolve(JSON.parse(localStorage.getItem(key)));
     }
 };
