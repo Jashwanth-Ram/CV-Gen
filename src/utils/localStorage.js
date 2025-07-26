@@ -19,6 +19,9 @@ export const saveData = (key, data) => {
              //when running this app on normal web page not in a extension the chrome storage might not exist then we store data to browser local storage.
 
         // Save data to browser local storage
+
+        //localStorage.setItem(key, JSON.stringify(data) - asynchronous operation.
+        //Call Promise.resolve(value) when the asynchronous operation completes successfully to  passing the resulting value.
         return Promise.resolve(localStorage.setItem(key, JSON.stringify(data)));
     }
 };
