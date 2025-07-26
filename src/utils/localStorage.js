@@ -40,5 +40,7 @@ export const loadData = (key) => {
 
 // Function to check if the environment is a Chrome extension
 const isChromeExtension = () => {
+
+     //checks if chrome object exist , then checks if chrome.storage exist 
     return !!chrome?.storage;
 };
